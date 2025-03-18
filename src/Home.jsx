@@ -12,7 +12,7 @@ const Home = () => {
         <Link to={"/counter"}>Counter App</Link>
       </Button>
       <Button>
-        <Link to={"/todo"}>Todo App</Link>
+        <Link to={"/todo-app"}>Todo App</Link>
       </Button>
     </div>
   );
